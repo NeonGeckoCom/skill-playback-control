@@ -1,6 +1,7 @@
 # MycroftSkill runtime files
 settings.json
-
+.idea/
+*.pyc
 # python compiled files
 __pycache__/
 *.py[cod]
