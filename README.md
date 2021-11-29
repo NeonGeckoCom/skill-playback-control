@@ -23,7 +23,8 @@ This capability is used by the [Spotify](https://github.com/forslund/spotify-ski
 * "Previous song"
 
 ## Credits
-Mycroft AI (@MycroftAI)
+[Mycroft AI](https://github.com/MycroftAI)
+[NeonDaniel](https://github.com/NeonDaniel)
 
 ## Category
 **Music**
